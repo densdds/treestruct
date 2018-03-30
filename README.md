@@ -1,0 +1,2 @@
+# treestruct
+Task for seminar
